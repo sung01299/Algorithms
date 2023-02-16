@@ -14,3 +14,4 @@ Solved LeetCode Problems List (Since Feb/15/2023:
 4. 704
 5. 733
 6. 35
+7. 977
