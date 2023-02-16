@@ -6,7 +6,7 @@ Learn Algorithm through solving leetcode problems
 
 2. Upload question, related topics, codes of every attempts I tried to solve, and self-feedbacks.
 
-Solved LeetCode Problems List (Since Feb/15/2023:
+Solved LeetCode Problems List (Since Feb/15/2023):
 
 1. #217. Contains Duplicate
 2. #53. Maximum Subarray
