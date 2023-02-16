@@ -8,11 +8,12 @@ Learn Algorithm through solving leetcode problems
 
 Solved LeetCode Problems List (Since Feb/15/2023:
 
-1. 217
-2. 53
-3. 278
-4. 704
-5. 733
-6. 35
-7. 977
-8. 189
+1. #217. Contains Duplicate
+2. #53. Maximum Subarray
+3. #278. First Bad Version
+4. #704. Binary Search
+5. #733. Flood Fill
+6. #35. Search Insert Position
+7. #977. Squares of a sorted Array
+8. #189. Rotate Array 
+9. #1. Two Sum
