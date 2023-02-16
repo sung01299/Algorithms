@@ -6,10 +6,10 @@ Learn Algorithm through solving leetcode problems
 
 2. Upload question, related topics, codes of every attempts I tried to solve, and self-feedbacks.
 
-Solved LeetCode Problems List:
+Solved LeetCode Problems List (Since Feb/15/2023:
 
-1. 
-2. 
-3. 
-4.
-5. 
+1. 217
+2. 53
+3. 278
+4. 704
+5. 733
