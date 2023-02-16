@@ -17,3 +17,4 @@ Solved LeetCode Problems List (Since Feb/15/2023:
 7. #977. Squares of a sorted Array
 8. #189. Rotate Array 
 9. #1. Two Sum
+10. #88 Merge Sorted Array
