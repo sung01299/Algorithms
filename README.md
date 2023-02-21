@@ -8,7 +8,7 @@ Learn Algorithm through solving leetcode problems
 
 ---
 
-**Solved LeetCode Problems List (Since Feb/15/2023):**
+**Solved LeetCode Problems List (Feb/15/2023~ ):**
 
 1. #217. Contains Duplicate
 2. #53. Maximum Subarray
