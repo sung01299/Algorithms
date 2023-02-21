@@ -29,4 +29,4 @@ Solved LeetCode Problems List (Since Feb/15/2023):
 19. #566 Reshape the Matrix
 20. #455. Assigning Cookies
 21. #2540. Minimum Common Value
-
+22. #1346. Check If N and Its Double Exist
