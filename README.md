@@ -36,3 +36,4 @@ Learn Algorithm through solving leetcode problems
 24. #19. Remove Nth Node From End of List (*)
 25. #205. Isomorphic Strings
 26. #387. First Unique Character in a String
+27. #242. Valid Anagram
