@@ -37,3 +37,4 @@ Learn Algorithm through solving leetcode problems
 25. #205. Isomorphic Strings
 26. #387. First Unique Character in a String
 27. #242. Valid Anagram
+28. #383. Ransom Note
