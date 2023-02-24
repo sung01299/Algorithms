@@ -35,3 +35,4 @@ Learn Algorithm through solving leetcode problems
 23. #876. Middle of the linked list
 24. #19. Remove Nth Node From End of List (*)
 25. #205. Isomorphic Strings
+26. #387. First Unique Character in a String
