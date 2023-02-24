@@ -38,3 +38,4 @@ Learn Algorithm through solving leetcode problems
 26. #387. First Unique Character in a String
 27. #242. Valid Anagram
 28. #383. Ransom Note
+29. #20. Valid Parentheses
