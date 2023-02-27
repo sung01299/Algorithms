@@ -6,6 +6,8 @@ Learn Algorithm through solving leetcode problems
 
 2. Upload question, related topics, codes of every attempts I tried to solve, and self-feedbacks.
 
+*(*) stands for 'Medium' difficulty questions*
+
 ---
 
 **Solved LeetCode Problems List (Feb/15/2023~ ):**
@@ -43,3 +45,4 @@ Learn Algorithm through solving leetcode problems
 31. #198. House Robber (*)
 32. #120. Triangle (*)
 33. #36. Valid Sudoku (*)
+34. #74. Search a 2D Matrix (*)
