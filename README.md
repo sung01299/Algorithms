@@ -6,7 +6,7 @@ Learn Algorithm through solving leetcode problems
 
 2. Upload question, related topics, codes of every attempts I tried to solve, and self-feedbacks.
 
-*(*) stands for 'Medium' difficulty questions*
+_(*) stands for 'Medium' difficulty questions_
 
 ---
 
