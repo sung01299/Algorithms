@@ -46,3 +46,5 @@ _(*) stands for 'Medium' difficulty questions_
 32. #120. Triangle (*)
 33. #36. Valid Sudoku (*)
 34. #74. Search a 2D Matrix (*)
+35. #141. Linked List Cycle
+36. 
