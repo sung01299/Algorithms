@@ -1,4 +1,4 @@
-# Learn Algorithm
+# Learn Algorithms
 
 Learn Algorithm through solving leetcode problems
 
