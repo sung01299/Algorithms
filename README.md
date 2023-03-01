@@ -51,3 +51,4 @@ _(*) stands for 'Medium' difficulty questions_
 37. #94. Binary Tree Inorder Traversal
 38. #130. Surrounded Regions (*)
 39. #2562. Find the Array Concatenation Value
+40. #1752. Check if Array Is Sorted and Rotated
