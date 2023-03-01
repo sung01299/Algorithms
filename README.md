@@ -7,6 +7,7 @@ Learn Algorithm through solving leetcode problems
 2. Upload question, related topics, codes of every attempts I tried to solve, and self-feedbacks.
 
 _(*) stands for 'Medium' difficulty questions_
+_(##) stands for questions that I looked up for suggested solutions/need to solve again later_
 
 ---
 
@@ -52,3 +53,4 @@ _(*) stands for 'Medium' difficulty questions_
 38. #130. Surrounded Regions (*)
 39. #2562. Find the Array Concatenation Value
 40. #1752. Check if Array Is Sorted and Rotated
+41. #112. Path Sum (##)
