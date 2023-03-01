@@ -7,6 +7,7 @@ Learn Algorithm through solving leetcode problems
 2. Upload question, related topics, codes of every attempts I tried to solve, and self-feedbacks.
 
 _(*) stands for 'Medium' difficulty questions_
+
 _(##) stands for questions that I looked up for suggested solutions/need to solve again later_
 
 ---
