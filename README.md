@@ -58,6 +58,7 @@ _(##) stands for questions that I looked up for suggested solutions/need to solv
 42. #226. Invert Binary Tree
 43. #116. Populating Next Right Pointers in Each Node (*)
 44. #117. Populating Next Right Pointers in Each Node II (*)
-45. #77. Combinations (##)
-46. #1091. Shortest Path in Binary Matrix
-47. #404. Sum of Left Leaves
+45. #77. Combinations (*) (##)
+46. #1091. Shortest Path in Binary Matrix (*)
+47. #404. Sum of Left Leaves (##)
+48. #2. Add Two Numbers (*) (##)
