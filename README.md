@@ -62,3 +62,4 @@ _(##) stands for questions that I looked up for suggested solutions/need to solv
 46. #1091. Shortest Path in Binary Matrix (*)
 47. #404. Sum of Left Leaves (##)
 48. #2. Add Two Numbers (*) (##)
+49. #28. Find the Index of the First Occurrence in a String
