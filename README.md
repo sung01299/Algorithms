@@ -66,3 +66,5 @@ _(##) stands for questions that I looked up for suggested solutions/need to solv
 50. #107. Binary Tree Level Order Traversal II (*)
 51. #113. Path Sum II (*)
 52. #99. Recover Binary Search Tree (*)
+53. 
+54. #34. Find First and Last Position of Element in Sorted Array (*)
