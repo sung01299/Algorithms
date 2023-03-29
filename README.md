@@ -70,3 +70,4 @@ _(##) stands for questions that I looked up for suggested solutions/need to solv
 54. #34. Find First and Last Position of Element in Sorted Array (*)
 55. #129. Sum Root to Leaf Numbers (*)
 56. #199. Binary Tree Right Side View (*)
+57. #896. Monotonic Array
