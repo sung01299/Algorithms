@@ -73,3 +73,4 @@ _(##) stands for questions that I looked up for suggested solutions/need to solv
 57. #896. Monotonic Array
 58. #80. Remove Duplicates From Sorted Array II (*)
 59. #169. Majority Element
+60. #121. Best Time to Buy and Sell Stock
