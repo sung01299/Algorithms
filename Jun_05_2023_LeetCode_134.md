@@ -12,7 +12,7 @@ Given two integer arrays gas and cost, return the starting gas station's index i
 
 
 Example 1:
-
+ 
 Input: gas = [1,2,3,4,5], cost = [3,4,5,1,2]
 Output: 3
 Explanation:
