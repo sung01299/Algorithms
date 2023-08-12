@@ -1,4 +1,4 @@
-# 162. Group Anagrams
+# 49. Group Anagrams
 
 **Difficulty: Medium**
 
@@ -29,13 +29,11 @@ Output: [["a"]]
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         c = {}
-
         for i in strs:
-            if str(sorted(i)) not in c:
+            if str(sorted(i)) not in c:   # str(sorted(i)) because string is not hashable
                 c[str(sorted(i))] = [i]
             else:
                 c[str(sorted(i))].append(i)
         
         return c.values()
 ```
-
