@@ -1,6 +1,6 @@
 # 238. Product Of Array Except Self
 
-**Difficulty: Medium**
+**Difficulty: Medium** 
 
 *Related Topics: Array, Prefix Sum*
 
