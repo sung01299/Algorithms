@@ -1,6 +1,6 @@
-1091. Shortest Path in Binary Matrix
+# 1091. Shortest Path in Binary Matrix
 
-Related Topics: Array, BFS, Matrix
+## Related Topics: Array, BFS, Matrix
 
 Given an n x n binary matrix grid, return the length of the shortest clear path in the matrix. If there is no clear path, return -1.
 
@@ -13,12 +13,10 @@ The length of a clear path is the number of visited cells of this path.
  
 Example 1:
 
-
 Input: grid = [[0,1],[1,0]]
 Output: 2
 
 Example 2:
-
 
 Input: grid = [[0,0,0],[1,1,0],[1,1,0]]
 Output: 4
@@ -31,7 +29,7 @@ Output: -1
 First Attempt:
 
 Code:
-
+```python
 from collections import deque
 
 class Solution:
@@ -66,4 +64,4 @@ class Solution:
             return -1
 
         return bfs(0,0)
-                    
+```                 
